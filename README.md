@@ -1,9 +1,5 @@
 # Movie-Vault
-A database management system for storing a collection of movies
-
----
-
-A Python-based movie database management system that allows users to manage and interact with a movie database. This system supports various operations, including adding movies, actors, directors, and genres, assigning actors and directors to movies, adding ratings, and searching for movies based on different criteria.
+A Python based movie management system that allows users to manage and interact with a movie database. This system supports various operations, including adding movies, actors, directors, and genres, assigning actors and directors to movies, adding ratings, and searching for movies based on different criteria.
 
 ## Contributors
 - Shashank Thakur, U22CS060
