@@ -49,3 +49,7 @@ A Python-based movie database management system that allows users to manage and 
 - **display_all_actors()**: Displays all actors.
 - **display_all_directors()**: Displays all directors.
 - **display_all_genres()**: Displays all genres.
+
+## Documentation
+
+The documentation .pdf files are in the [docs](docs) folder
