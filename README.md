@@ -24,7 +24,7 @@ A Python-based movie database management system that allows users to manage and 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.6.3
 - `cx_Oracle` library (for Oracle database connection)
 - `tabulate` library (for table formatting)
 
