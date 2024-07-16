@@ -5,6 +5,13 @@ A database management system for storing a collection of movies
 
 A Python-based movie database management system that allows users to manage and interact with a movie database. This system supports various operations, including adding movies, actors, directors, and genres, assigning actors and directors to movies, adding ratings, and searching for movies based on different criteria.
 
+## Contributors
+- Shashank Thakur, U22CS060
+- Shubham Waghmare, U22CS044
+- Cheedalla Sathvik, U22CS031
+- Kambalapally Aryan, U22CS054
+
+
 ## Features
 
 - **Add New Entries**: Movies, actors, directors, and genres.
