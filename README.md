@@ -3,7 +3,7 @@ A Python-based movie management system that allows users to manage and interact 
 
 ## Contributors
 - Shashank Thakur, U22CS060
-- 
+- Shubham Waghmare, U22CS044
 - Cheedalla Sathvik, U22CS031
 - Kambalapally Aryan, U22CS054
 
