@@ -2,7 +2,7 @@ import cx_Oracle
 from tabulate import tabulate
 
 # Replace with your Oracle database connection details
-connection = cx_Oracle.connect("SYS/Shashank2004Thakur##@localhost:1521/xe", mode=cx_Oracle.SYSDBA)
+connection = cx_Oracle.connect("SYS/YourConnectionDetails@localhost:1521/xe", mode=cx_Oracle.SYSDBA)
 
 
 def execute_sql(sql):
